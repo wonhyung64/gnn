@@ -62,5 +62,3 @@ dataset.num_node_features
 
 data: torch_geometric.data.data.Data = dataset[0]
 data.is_undirected()
-
-
